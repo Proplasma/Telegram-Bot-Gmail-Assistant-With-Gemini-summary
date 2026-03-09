@@ -12,6 +12,15 @@ Dự án này cung cấp mã nguồn Google Apps Script để tạo một bot Te
 * **Hệ thống lưu vết (Logging):** Mọi thao tác, tiến trình quét và lỗi hệ thống đều được ghi chú chi tiết theo thời gian thực vào một tệp Google Sheets.
 * **Lệnh thủ công an toàn:** Hỗ trợ lệnh `/scan` để quét email chủ động, tích hợp cơ chế khóa tiến trình (Lock Mechanism) để chống thư rác hoặc quá tải hệ thống.
 
+
+<img width="845" height="1493" alt="image" src="https://github.com/user-attachments/assets/8348bb27-e16c-4624-ba2e-e2af23f05ed3" />
+
+
+  <img width="2389" height="715" alt="image" src="https://github.com/user-attachments/assets/ddc49881-c576-4f34-97c6-03d739862d59" />
+
+
+
+
 ## Yêu cầu chuẩn bị
 
 Trước khi triển khai, bạn cần chuẩn bị các thông tin sau:
